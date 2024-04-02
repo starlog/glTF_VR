@@ -44,6 +44,11 @@
 		{
 			"Name": "glTF_Downloader",
 			"Enabled": true
+		},
+		{
+			"Name": "GraphFormatter",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/297159d6d3f4425b9c095b18a811a401"
 		}
 	],
 	"TargetPlatforms": [
